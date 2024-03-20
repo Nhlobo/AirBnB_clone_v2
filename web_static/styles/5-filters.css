@@ -1,0 +1,21 @@
+.locations,
+.amenities {
+    height: 100%;
+    width: 25%;
+    border-right: 1px solid #DDDDDD;
+}
+
+.locations {
+    border-right: none;
+}
+
+.locations h3,
+.amenities h3 {
+    font-weight: 600;
+}
+
+.locations h4,
+.amenities h4 {
+    font-weight: 400;
+    font-size: 14px;
+}
