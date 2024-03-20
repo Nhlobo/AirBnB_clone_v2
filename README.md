@@ -8,4 +8,4 @@ This is the second version of the AirBnB Clone project. The original codebase wa
 - Updated the README.md file with project information.
 
 ## Contributors:
-- Nhlovo Mathebula 
+- Nhlovo Mathebula https://github.com/Nhlobo
