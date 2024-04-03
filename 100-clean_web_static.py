@@ -3,7 +3,7 @@
 from fabric.api import *
 
 
-env.hosts = ['100.25.191.27', '18.206.197.160']
+env.hosts = ['100.26.136.64', '100.26.132.146']
 env.user = "ubuntu"
 
 
